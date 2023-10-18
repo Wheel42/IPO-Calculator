@@ -1,5 +1,4 @@
-// alert("Hello World!!");
-// toFixed(1)
+// toFixed(2)
 
 //Copy paste section:
 document.getElementById("button").addEventListener("click", buttonClicked);
