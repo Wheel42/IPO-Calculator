@@ -1,0 +1,17 @@
+body {
+  width: 600px;
+  margin: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: grey;
+}
+button {
+  color: blueviolet;
+  background-color: violet;
+}
+button:hover {
+  color: darkmagenta;
+  background-color: darkorchid;
+}
+h1 {
+  font-size: 20px;
+}
